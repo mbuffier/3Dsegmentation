@@ -23,7 +23,7 @@ OpenCV
 
 ## Run the code
 
-### Run with own images
+### Run with other images
 
 To test with images, the image folder needs to be in build and use the same format as InfiniTam (calib file and a 'frames' folder)
 
