@@ -3,11 +3,12 @@
 This repository contains code from my master project at University College London. It aims at incrementally achieving an object-aware 3D segmentation by fusing geometrical and deep-learning frame-wise information.
 It's build on InfiniTam (https://github.com/victorprad/InfiniTAM). 
 
-## How to build
+## Getting Started
 
 ### Prerequisites
 
 Everything InfiniTam needs
+
 OpenCV 
 
 ### Build Process
@@ -20,7 +21,9 @@ OpenCV
   $ make
 ```
 
-### Examples
+## Run the code
+
+### Run with own images
 
 To test with images, the image folder needs to be in build and use the same format as InfiniTam (calib file and a 'frames' folder)
 
@@ -43,6 +46,8 @@ build
     calib.txt
     out
 ```
+
+## Thanks !
 
 
 
